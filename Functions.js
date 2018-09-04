@@ -1,3 +1,3 @@
-function getStringLength(string) {
-	return string.length();
+function getStringLength(str) {
+	return str.length();
 }
