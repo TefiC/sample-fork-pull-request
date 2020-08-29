@@ -1,3 +1,3 @@
-function returnStringLength(string1) {
-	return string1.length();
+function returnStringLength2(string2) {
+	return string2.length();
 }
